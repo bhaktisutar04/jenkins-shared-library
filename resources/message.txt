@@ -1,0 +1,2 @@
+Build Status: ${STATUS}
+This is a message from Jenkins Shared Library.
